@@ -14,4 +14,4 @@
 ---
 include:
   - board: nrfmicro_11
-    shield: two_percent_milk
+    shield: abab68
