@@ -14,4 +14,4 @@
 ---
 include:
   - board: nrfmicro_11
-    shield: abab68
+    shield: m60
